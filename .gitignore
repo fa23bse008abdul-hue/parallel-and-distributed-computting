@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+jobs/
+server.log
+testdata/
+*_rendered*.mp4
+*.part
